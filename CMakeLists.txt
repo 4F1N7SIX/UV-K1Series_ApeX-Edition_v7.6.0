@@ -82,7 +82,7 @@ else()
 endif()
 
 if(NOT FIRMWARE_PACKAGE_NAME)
-    set(FIRMWARE_PACKAGE_NAME "n7six.ApeX-k5v1.${VERSION_STRING_2}")
+    set(FIRMWARE_PACKAGE_NAME "n7six.ApeX-k1.${VERSION_STRING_2}")
 endif()
 
 message("EXE_NAME = " ${EXE_NAME})
